@@ -1,4 +1,4 @@
-# ExpressJsLab4Template
+# MongooseJsLab5Template
 
 ## Initial Machine Setup
 
@@ -7,7 +7,8 @@
 ## Get Started
 
 1. **Install** `npm install`
-2. **Run the app** `npm run start`
+2. **Configure connection to MongoDB Atlas** - replace `<Put your connection string here>` by connection string to MongoDb Atlas in `config/db.config.js`
+3. **Run the app** `npm run start`
 
 ### Linting
 
